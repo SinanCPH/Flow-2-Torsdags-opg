@@ -1,0 +1,5 @@
+1. Expresso
+2. Americano
+3. Macchiato
+4. FlatWhite
+5. Latte
